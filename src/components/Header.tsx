@@ -37,9 +37,7 @@ export function Header() {
     >
       <div className="mx-auto flex max-w-page items-center justify-between px-5 md:px-8 py-3 md:py-4">
         <Link href="/" className="flex items-center gap-3" aria-label="Nile Reach Global">
-          <div className="h-11 w-11 md:h-12 md:w-12">
-            <Logo variant="mark" />
-          </div>
+          <Logo variant="mark" className="h-11 w-11 md:h-12 md:w-12 flex-shrink-0" />
           <div className="hidden sm:flex flex-col leading-none">
             <span className="font-display text-base font-semibold tracking-wide text-nile-800">
               NILE&nbsp;REACH

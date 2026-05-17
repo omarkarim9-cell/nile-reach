@@ -12,9 +12,7 @@ export function Footer() {
       <div className="mx-auto max-w-page px-5 md:px-8 py-14">
         <div className="grid gap-10 md:grid-cols-4">
           <div className="md:col-span-1">
-            <div className="h-14 w-14 mb-3">
-              <Logo variant="mark" />
-            </div>
+            <Logo variant="mark" className="h-14 w-14 mb-3" />
             <p className="font-display text-lg leading-tight text-sand-50">
               Nile Reach Global
             </p>
