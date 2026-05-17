@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品",
+    "livestock": "牲畜",
+    "crops": "作物与谷物",
+    "processed": "加工产品",
+    "quality": "质量与加工",
+    "sustainability": "可持续发展",
+    "contact": "联系我们",
+    "requestQuote": "索取报价"
+  },
+  "hero": {
+    "eyebrow": "苏丹原产 · 全球供应",
+    "title": "来自尼罗河流域核心地带的优质农产品和牲畜。",
+    "subtitle": "Nile Reach Global 将苏丹生产者与国际市场连接起来,向海湾地区、亚洲、欧洲及更远地区的买家提供牲畜、谷物、油料作物和加工产品。",
+    "ctaPrimary": "索取报价",
+    "ctaSecondary": "浏览产品"
+  },
+  "stats": {
+    "countries": "出口目的地",
+    "products": "产品类别",
+    "experience": "贸易传承年数",
+    "certified": "清真和 ISO 认证"
+  },
+  "productsSection": {
+    "eyebrow": "我们的贸易",
+    "title": "从苏丹田野到世界餐桌",
+    "subtitle": "三大核心类别,每一类都建立在与苏丹各地经过验证的生产商和加工商的长期合作关系之上。",
+    "livestockTitle": "牲畜",
+    "livestockDesc": "活羊、活牛和山羊——来自传统养殖区域,按照严格的兽医和清真标准准备出口。",
+    "cropsTitle": "作物与谷物",
+    "cropsDesc": "芝麻、花生、小麦、高粱(dura)、向日葵和苜蓿——苏丹农业的主要作物,经过清洗和分级,供国际买家选购。",
+    "processedTitle": "加工产品",
+    "processedDesc": "清真加工肉类、清洁油料作物及增值农产品,随时可供分销。",
+    "viewAll": "查看所有产品"
+  },
+  "productGallery": {
+    "eyebrow": "我们的产品",
+    "title": "我们贸易产品的概览",
+    "subtitle": "来自苏丹各地的农场——经过采购、分级,运往世界各地。",
+    "items": {
+      "sheep": "羊",
+      "cattle": "牛",
+      "goats": "山羊",
+      "sesame": "芝麻",
+      "peanut": "花生",
+      "wheat": "小麦",
+      "sorghum": "高粱(dura)",
+      "sunflower": "向日葵",
+      "berseem": "苜蓿"
+    }
+  },
+  "about": {
+    "eyebrow": "我们是谁",
+    "title": "建立在孕育文明的河流之上。",
+    "body": "喀土穆的青尼罗河与白尼罗河交汇处——被称为 Mogran——数千年来一直是贸易和文化的交汇点。Nile Reach Global 传承这一遗产,与苏丹各地的农民、牧民和加工商合作,以可靠、透明和用心的方式将他们的产品带入全球市场。",
+    "cta": "了解更多关于我们"
+  },
+  "quality": {
+    "eyebrow": "标准",
+    "title": "清真认证。兽医检验。出口就绪。",
+    "body": "每批货物均经过持牌加工设施,并按照目的地市场所要求的标准进行检验。",
+    "cta": "查看我们的加工标准"
+  },
+  "cta": {
+    "title": "希望从苏丹采购?",
+    "subtitle": "告诉我们您的需求和目的地。我们将在一个工作日内回复您可用性、规格和价格。",
+    "button": "索取报价"
+  },
+  "footer": {
+    "tagline": "苏丹原产。全球供应。",
+    "rightsReserved": "版权所有。",
+    "company": "公司",
+    "products": "产品",
+    "contact": "联系",
+    "address": "苏丹,喀土穆",
+    "email": "trade@nile-reach.com"
+  },
+  "language": {
+    "switcher": "语言",
+    "moreLanguages": "通过 Google 翻译获取更多语言"
+  }
+}

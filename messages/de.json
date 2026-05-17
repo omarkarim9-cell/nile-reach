@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "products": "Produkte",
+    "livestock": "Vieh",
+    "crops": "Feldfrüchte & Getreide",
+    "processed": "Verarbeitete Waren",
+    "quality": "Qualität & Verarbeitung",
+    "sustainability": "Nachhaltigkeit",
+    "contact": "Kontakt",
+    "requestQuote": "Angebot anfordern"
+  },
+  "hero": {
+    "eyebrow": "Sudanesische Herkunft · Globale Reichweite",
+    "title": "Hochwertige landwirtschaftliche Rohstoffe und Vieh aus dem Herzen des Nilbeckens.",
+    "subtitle": "Nile Reach Global verbindet sudanesische Erzeuger mit internationalen Märkten — und liefert Vieh, Getreide, Ölsaaten und verarbeitete Waren an Käufer am Golf, in Asien, Europa und darüber hinaus.",
+    "ctaPrimary": "Angebot anfordern",
+    "ctaSecondary": "Produkte entdecken"
+  },
+  "stats": {
+    "countries": "Exportziele",
+    "products": "Produktkategorien",
+    "experience": "Jahre Handelstradition",
+    "certified": "Halal- und ISO-zertifiziert"
+  },
+  "productsSection": {
+    "eyebrow": "Was wir handeln",
+    "title": "Von den sudanesischen Feldern auf die Tische der Welt",
+    "subtitle": "Drei Hauptkategorien, jede gestützt auf langjährige Beziehungen mit geprüften Erzeugern und Verarbeitern im ganzen Sudan.",
+    "livestockTitle": "Vieh",
+    "livestockDesc": "Lebendschafe, -rinder und -ziegen — aus traditionellen Zuchtregionen, exportbereit nach strengen veterinärmedizinischen und halal-konformen Standards.",
+    "cropsTitle": "Feldfrüchte & Getreide",
+    "cropsDesc": "Sesam, Erdnüsse, Weizen, Sorghum (Dura), Sonnenblumen und Berseem-Klee — die Grundpfeiler der sudanesischen Landwirtschaft, gereinigt und sortiert für internationale Käufer.",
+    "processedTitle": "Verarbeitete Waren",
+    "processedDesc": "Halal-verarbeitetes Fleisch, gereinigte Ölsaaten und wertschöpfende Agrarprodukte, bereit zur Distribution.",
+    "viewAll": "Alle Produkte ansehen"
+  },
+  "productGallery": {
+    "eyebrow": "Unsere Produkte",
+    "title": "Ein Einblick in unser Handelssortiment",
+    "subtitle": "Von Höfen im ganzen Sudan — beschafft, sortiert und weltweit versandt.",
+    "items": {
+      "sheep": "Schafe",
+      "cattle": "Rinder",
+      "goats": "Ziegen",
+      "sesame": "Sesam",
+      "peanut": "Erdnüsse",
+      "wheat": "Weizen",
+      "sorghum": "Sorghum (Dura)",
+      "sunflower": "Sonnenblumen",
+      "berseem": "Berseem-Klee"
+    }
+  },
+  "about": {
+    "eyebrow": "Wer wir sind",
+    "title": "Gebaut auf den Flüssen, die eine Zivilisation hervorbrachten.",
+    "body": "Der Zusammenfluss von Blauem und Weißem Nil in Khartum — bekannt als Mogran — ist seit Jahrtausenden ein Treffpunkt für Handel und Kultur. Nile Reach Global führt dieses Erbe fort und arbeitet mit Bauern, Hirten und Verarbeitern im gesamten Sudan zusammen, um deren Produkte zuverlässig, transparent und sorgfältig auf den globalen Markt zu bringen.",
+    "cta": "Mehr über uns erfahren"
+  },
+  "quality": {
+    "eyebrow": "Standards",
+    "title": "Halal-zertifiziert. Veterinärgeprüft. Exportbereit.",
+    "body": "Jede Lieferung durchläuft lizenzierte Verarbeitungsbetriebe und wird nach den Standards des Zielmarktes geprüft.",
+    "cta": "Unsere Verarbeitungsstandards ansehen"
+  },
+  "cta": {
+    "title": "Möchten Sie aus dem Sudan beziehen?",
+    "subtitle": "Teilen Sie uns mit, was Sie benötigen und wo. Wir antworten innerhalb eines Werktages mit Verfügbarkeit, Spezifikationen und Preisen.",
+    "button": "Angebot anfordern"
+  },
+  "footer": {
+    "tagline": "Sudanesische Herkunft. Globale Reichweite.",
+    "rightsReserved": "Alle Rechte vorbehalten.",
+    "company": "Unternehmen",
+    "products": "Produkte",
+    "contact": "Kontakt",
+    "address": "Khartum, Sudan",
+    "email": "trade@nile-reach.com"
+  },
+  "language": {
+    "switcher": "Sprache",
+    "moreLanguages": "Weitere Sprachen über Google Übersetzer"
+  }
+}

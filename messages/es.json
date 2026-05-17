@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "products": "Productos",
+    "livestock": "Ganado",
+    "crops": "Cultivos y granos",
+    "processed": "Productos procesados",
+    "quality": "Calidad y procesamiento",
+    "sustainability": "Sostenibilidad",
+    "contact": "Contacto",
+    "requestQuote": "Solicitar cotización"
+  },
+  "hero": {
+    "eyebrow": "Origen sudanés · Alcance global",
+    "title": "Materias primas agrícolas y ganado de calidad premium del corazón de la cuenca del Nilo.",
+    "subtitle": "Nile Reach Global conecta a los productores sudaneses con los mercados internacionales, suministrando ganado, granos, oleaginosas y productos procesados a compradores del Golfo, Asia, Europa y más allá.",
+    "ctaPrimary": "Solicitar cotización",
+    "ctaSecondary": "Explorar productos"
+  },
+  "stats": {
+    "countries": "Destinos de exportación",
+    "products": "Categorías de productos",
+    "experience": "Años de tradición comercial",
+    "certified": "Certificado halal e ISO"
+  },
+  "productsSection": {
+    "eyebrow": "Lo que comercializamos",
+    "title": "De los campos sudaneses a las mesas del mundo",
+    "subtitle": "Tres categorías principales, cada una construida sobre relaciones consolidadas con productores y procesadores verificados en todo Sudán.",
+    "livestockTitle": "Ganado",
+    "livestockDesc": "Ovejas, vacas y cabras en pie, provenientes de regiones de cría tradicional y preparadas para exportación bajo estrictas normas veterinarias y halal.",
+    "cropsTitle": "Cultivos y granos",
+    "cropsDesc": "Sésamo, cacahuetes, trigo, sorgo (dura), girasol y bersim: los pilares de la agricultura sudanesa, limpios y clasificados para compradores internacionales.",
+    "processedTitle": "Productos procesados",
+    "processedDesc": "Carne procesada halal, oleaginosas limpias y productos agrícolas con valor agregado listos para distribución.",
+    "viewAll": "Ver todos los productos"
+  },
+  "productGallery": {
+    "eyebrow": "Nuestros productos",
+    "title": "Un vistazo de lo que comercializamos",
+    "subtitle": "De granjas en todo Sudán: obtenidos, clasificados y enviados a todo el mundo.",
+    "items": {
+      "sheep": "Ovejas",
+      "cattle": "Vacas",
+      "goats": "Cabras",
+      "sesame": "Sésamo",
+      "peanut": "Cacahuetes",
+      "wheat": "Trigo",
+      "sorghum": "Sorgo (Dura)",
+      "sunflower": "Girasol",
+      "berseem": "Bersim"
+    }
+  },
+  "about": {
+    "eyebrow": "Quiénes somos",
+    "title": "Construidos sobre los ríos que construyeron una civilización.",
+    "body": "La confluencia del Nilo Azul y el Nilo Blanco en Jartum, conocida como Mogran, ha sido un punto de encuentro para el comercio y la cultura durante milenios. Nile Reach Global lleva ese legado adelante, trabajando con agricultores, ganaderos y procesadores en todo Sudán para llevar sus productos al mercado global con fiabilidad, transparencia y cuidado.",
+    "cta": "Conoce más sobre nosotros"
+  },
+  "quality": {
+    "eyebrow": "Estándares",
+    "title": "Certificado halal. Inspeccionado veterinariamente. Listo para exportación.",
+    "body": "Cada envío pasa por instalaciones de procesamiento autorizadas y se inspecciona según los estándares requeridos por el mercado de destino.",
+    "cta": "Ver nuestros estándares de procesamiento"
+  },
+  "cta": {
+    "title": "¿Busca abastecerse desde Sudán?",
+    "subtitle": "Díganos lo que necesita y dónde lo necesita. Responderemos con disponibilidad, especificaciones y precios en un día hábil.",
+    "button": "Solicitar cotización"
+  },
+  "footer": {
+    "tagline": "Origen sudanés. Alcance global.",
+    "rightsReserved": "Todos los derechos reservados.",
+    "company": "Empresa",
+    "products": "Productos",
+    "contact": "Contacto",
+    "address": "Jartum, Sudán",
+    "email": "trade@nile-reach.com"
+  },
+  "language": {
+    "switcher": "Idioma",
+    "moreLanguages": "Más idiomas a través de Google Translate"
+  }
+}

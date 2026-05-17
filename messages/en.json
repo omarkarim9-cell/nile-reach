@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "livestock": "Livestock",
+    "crops": "Crops & Grains",
+    "processed": "Processed Goods",
+    "quality": "Quality & Processing",
+    "sustainability": "Sustainability",
+    "contact": "Contact",
+    "requestQuote": "Request a Quote"
+  },
+  "hero": {
+    "eyebrow": "Sudanese Origin · Global Reach",
+    "title": "Premium agricultural commodities and livestock from the heart of the Nile basin.",
+    "subtitle": "Nile Reach Global connects Sudanese producers with international markets — delivering livestock, grains, oilseeds, and processed goods to buyers across the Gulf, Asia, Europe, and beyond.",
+    "ctaPrimary": "Request a Quote",
+    "ctaSecondary": "Explore Products"
+  },
+  "stats": {
+    "countries": "Export destinations",
+    "products": "Product categories",
+    "experience": "Years of trade heritage",
+    "certified": "Halal & ISO certified"
+  },
+  "productsSection": {
+    "eyebrow": "What we trade",
+    "title": "From the Sudanese fields to global tables",
+    "subtitle": "Three core categories, each built on long-standing relationships with verified producers and processors across Sudan.",
+    "livestockTitle": "Livestock",
+    "livestockDesc": "Live sheep, cattle, and goats — sourced from traditional rearing regions and prepared for export under strict veterinary and halal standards.",
+    "cropsTitle": "Crops & Grains",
+    "cropsDesc": "Sesame, peanuts, wheat, sorghum (dura), sunflower, and berseem — the staples of Sudanese agriculture, cleaned and graded for international buyers.",
+    "processedTitle": "Processed Goods",
+    "processedDesc": "Halal-processed meat, cleaned oilseeds, and value-added agricultural products ready for distribution.",
+    "viewAll": "View all products"
+  },
+  "productGallery": {
+    "eyebrow": "Our products",
+    "title": "A taste of what we trade",
+    "subtitle": "From farms across Sudan — sourced, graded, and shipped worldwide.",
+    "items": {
+      "sheep": "Sheep",
+      "cattle": "Cattle",
+      "goats": "Goats",
+      "sesame": "Sesame",
+      "peanut": "Peanuts",
+      "wheat": "Wheat",
+      "sorghum": "Sorghum (Dura)",
+      "sunflower": "Sunflower",
+      "berseem": "Berseem"
+    }
+  },
+  "about": {
+    "eyebrow": "Who we are",
+    "title": "Built on the rivers that built a civilization.",
+    "body": "The confluence of the Blue Nile and White Nile at Khartoum — known as Mogran — has been a meeting point for trade and culture for millennia. Nile Reach Global carries that heritage forward, working with farmers, herders, and processors across Sudan to bring their products to a global market with reliability, transparency, and care.",
+    "cta": "Learn more about us"
+  },
+  "quality": {
+    "eyebrow": "Standards",
+    "title": "Halal-certified. Veterinary-inspected. Export-ready.",
+    "body": "Every shipment passes through licensed processing facilities and is inspected against the standards required by the destination market.",
+    "cta": "See our processing standards"
+  },
+  "cta": {
+    "title": "Looking to source from Sudan?",
+    "subtitle": "Tell us what you need and where you need it. We'll respond with availability, specifications, and pricing within one business day.",
+    "button": "Request a Quote"
+  },
+  "footer": {
+    "tagline": "Sudanese origin. Global reach.",
+    "rightsReserved": "All rights reserved.",
+    "company": "Company",
+    "products": "Products",
+    "contact": "Contact",
+    "address": "Khartoum, Sudan",
+    "email": "trade@nile-reach.com"
+  },
+  "language": {
+    "switcher": "Language",
+    "moreLanguages": "More languages via Google Translate"
+  }
+}

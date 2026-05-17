@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "products": "Produits",
+    "livestock": "Bétail",
+    "crops": "Cultures et céréales",
+    "processed": "Produits transformés",
+    "quality": "Qualité et transformation",
+    "sustainability": "Durabilité",
+    "contact": "Contact",
+    "requestQuote": "Demander un devis"
+  },
+  "hero": {
+    "eyebrow": "Origine soudanaise · Portée mondiale",
+    "title": "Matières premières agricoles et bétail de qualité supérieure, au cœur du bassin du Nil.",
+    "subtitle": "Nile Reach Global relie les producteurs soudanais aux marchés internationaux — livrant bétail, céréales, oléagineux et produits transformés à des acheteurs dans le Golfe, en Asie, en Europe et au-delà.",
+    "ctaPrimary": "Demander un devis",
+    "ctaSecondary": "Découvrir les produits"
+  },
+  "stats": {
+    "countries": "Destinations d'exportation",
+    "products": "Catégories de produits",
+    "experience": "Années d'héritage commercial",
+    "certified": "Certifié halal et ISO"
+  },
+  "productsSection": {
+    "eyebrow": "Ce que nous échangeons",
+    "title": "Des champs soudanais aux tables du monde",
+    "subtitle": "Trois catégories principales, chacune fondée sur des relations établies avec des producteurs et transformateurs vérifiés à travers le Soudan.",
+    "livestockTitle": "Bétail",
+    "livestockDesc": "Moutons, bovins et chèvres vivants — issus de régions d'élevage traditionnelles et préparés pour l'exportation selon des normes vétérinaires et halal strictes.",
+    "cropsTitle": "Cultures et céréales",
+    "cropsDesc": "Sésame, arachides, blé, sorgho (dura), tournesol et bersim — les piliers de l'agriculture soudanaise, nettoyés et calibrés pour les acheteurs internationaux.",
+    "processedTitle": "Produits transformés",
+    "processedDesc": "Viande halal transformée, oléagineux nettoyés et produits agricoles à valeur ajoutée, prêts pour la distribution.",
+    "viewAll": "Voir tous les produits"
+  },
+  "productGallery": {
+    "eyebrow": "Nos produits",
+    "title": "Un aperçu de ce que nous échangeons",
+    "subtitle": "Issus de fermes à travers le Soudan — sourcés, calibrés et expédiés dans le monde entier.",
+    "items": {
+      "sheep": "Moutons",
+      "cattle": "Bovins",
+      "goats": "Chèvres",
+      "sesame": "Sésame",
+      "peanut": "Arachides",
+      "wheat": "Blé",
+      "sorghum": "Sorgho (Dura)",
+      "sunflower": "Tournesol",
+      "berseem": "Bersim"
+    }
+  },
+  "about": {
+    "eyebrow": "Qui nous sommes",
+    "title": "Bâti sur les fleuves qui ont bâti une civilisation.",
+    "body": "Le confluent du Nil Bleu et du Nil Blanc à Khartoum — connu sous le nom de Mogran — est un point de rencontre pour le commerce et la culture depuis des millénaires. Nile Reach Global perpétue cet héritage, en travaillant avec les agriculteurs, éleveurs et transformateurs à travers le Soudan pour apporter leurs produits sur un marché mondial avec fiabilité, transparence et soin.",
+    "cta": "En savoir plus"
+  },
+  "quality": {
+    "eyebrow": "Normes",
+    "title": "Certifié halal. Inspecté vétérinairement. Prêt à l'exportation.",
+    "body": "Chaque expédition passe par des installations de transformation agréées et est inspectée selon les normes du marché de destination.",
+    "cta": "Voir nos normes de transformation"
+  },
+  "cta": {
+    "title": "Vous cherchez à vous approvisionner depuis le Soudan ?",
+    "subtitle": "Dites-nous ce dont vous avez besoin et où. Nous vous répondrons avec la disponibilité, les spécifications et les prix dans un délai d'un jour ouvré.",
+    "button": "Demander un devis"
+  },
+  "footer": {
+    "tagline": "Origine soudanaise. Portée mondiale.",
+    "rightsReserved": "Tous droits réservés.",
+    "company": "Entreprise",
+    "products": "Produits",
+    "contact": "Contact",
+    "address": "Khartoum, Soudan",
+    "email": "trade@nile-reach.com"
+  },
+  "language": {
+    "switcher": "Langue",
+    "moreLanguages": "Plus de langues via Google Translate"
+  }
+}
