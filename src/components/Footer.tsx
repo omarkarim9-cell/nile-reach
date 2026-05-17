@@ -33,7 +33,7 @@ export function Footer() {
         <div className="grid gap-10 md:grid-cols-4">
           {/* ===== Brand block ===== */}
           <div className="md:col-span-1">
-            <div className="inline-block rounded-lg bg-sand-50 p-2 mb-4">
+            <div className="inline-block rounded-lg bg-sand-50 px-3 py-2 mb-4">
               <Logo className="h-16 w-auto" />
             </div>
             <p className="font-display text-base leading-tight text-sand-50">

@@ -36,16 +36,13 @@ export function Header() {
       }`}
     >
       <div className="mx-auto flex max-w-page items-center justify-between px-5 md:px-8 py-3 md:py-4">
-        <Link href="/" className="flex items-center gap-3" aria-label="Nile Reach Global">
-          <Logo variant="mark" className="h-11 w-11 md:h-12 md:w-12 flex-shrink-0" />
-          <div className="hidden sm:flex flex-col leading-none">
-            <span className="font-display text-base font-semibold tracking-wide text-nile-800">
-              NILE&nbsp;REACH
-            </span>
-            <span className="mt-0.5 text-[9px] uppercase tracking-[0.3em] text-sand-500">
-              Global
-            </span>
-          </div>
+        <Link
+          href="/"
+          className="flex items-center gap-3"
+          aria-label="Nile Reach Global Group"
+        >
+          {/* Logo image (includes brand wordmark) */}
+          <Logo className="h-14 md:h-16 w-auto" />
         </Link>
 
         <nav className="hidden lg:flex items-center gap-7">
