@@ -9,5 +9,5 @@ build/
 next-env.d.ts
 .vercel
 .temp.driveupload
-
+.temp*
 .vercel
