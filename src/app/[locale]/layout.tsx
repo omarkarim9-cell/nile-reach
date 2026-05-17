@@ -32,12 +32,12 @@ const cairo = Cairo({
 });
 
 export const metadata: Metadata = {
-  title: "Nile Reach Global — Sudanese origin, global reach.",
+  title: "Nile Reach Global Group — Sudanese origin, global reach.",
   description:
-    "Premium agricultural commodities and livestock from Sudan. Sesame, peanuts, sorghum, sheep, cattle and more — exported worldwide.",
+    "Premium agricultural commodities and livestock exported from Sudan by Nile Reach Global Group, Ajman, UAE. Sesame, peanuts, sorghum, sheep, cattle and more.",
   metadataBase: new URL("https://nile-reach.com"),
   openGraph: {
-    title: "Nile Reach Global",
+    title: "Nile Reach Global Group",
     description: "Sudanese origin, global reach.",
     type: "website",
   },

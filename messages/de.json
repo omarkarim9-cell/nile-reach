@@ -75,8 +75,14 @@
     "company": "Unternehmen",
     "products": "Produkte",
     "contact": "Kontakt",
-    "address": "Khartum, Sudan",
-    "email": "trade@nile-reach.com"
+    "companyName": "Nile Reach Global Group",
+    "addressLine1": "Ajman Free Zone, Amberjem Tower – 6. Etage",
+    "addressLine2": "Khalifa bin Zayed Straße, Ajman, VAE",
+    "phone": "+971 58 614 9825",
+    "phoneLabel": "Telefon",
+    "whatsappLabel": "WhatsApp",
+    "email": "info@nile-reach.com",
+    "website": "www.nile-reach.com"
   },
   "language": {
     "switcher": "Sprache",
