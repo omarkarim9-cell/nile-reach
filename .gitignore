@@ -11,3 +11,33 @@ next-env.d.ts
 .temp.driveupload
 .temp*
 .vercel
+# Dependencies
+node_modules/
+
+# Next.js build
+.next/
+out/
+build/
+
+# Env files
+.env*.local
+.env
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel
+.vercel
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Google Drive sync
+.tmp.driveupload/
+.tmp.drivedownload/
+*.gdoc
+*.gsheet
+*.gslides
