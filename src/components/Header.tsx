@@ -42,7 +42,7 @@ export function Header() {
           aria-label="Nile Reach Global Group"
         >
           {/* Logo image (includes brand wordmark) */}
-          <Logo className="h-14 md:h-16 w-auto" />
+          <Logo className="h-20 md:h-24 w-auto" />
         </Link>
 
         <nav className="hidden lg:flex items-center gap-7">
