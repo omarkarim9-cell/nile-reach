@@ -60,8 +60,7 @@ export const products: Product[] = [
     category: "crops",
     nameKey: "peanut",
     nameEn: "Peanuts",
-    image:
-      "https://images.pexels.com/photos/9799045/pexels-photo-9799045.jpeg?w=1200&auto=compress&cs=tinysrgb",
+    image: "/images/peanut.jpg",
   },
   {
     slug: "wheat",
@@ -92,8 +91,7 @@ export const products: Product[] = [
     category: "crops",
     nameKey: "berseem",
     nameEn: "Berseem (Clover)",
-    image:
-      "https://images.pexels.com/photos/35124631/pexels-photo-35124631.jpeg?w=1200&auto=compress&cs=tinysrgb",
+    image: "/images/berseem.jpg",
   },
 
   // ===== PROCESSED =====
