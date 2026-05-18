@@ -2,12 +2,13 @@ import { useTranslations } from "next-intl";
 import Image from "next/image";
 import { Link } from "@/i18n/routing";
 import { ArrowRight, Beef, Leaf, Package2 } from "lucide-react";
-import { products } from "@/lib/products";
+import { getProductsWithOverrides } from "@/lib/getProducts";
 import { PageHero } from "@/components/PageHero";
 import { CTASection } from "@/components/CTASection";
 
-export default function ProductsHubPage() {
+export default async function ProductsHubPage() {
   const t = useTranslations();
+  const products = await getProductsWithOverrides();
 
   return (
     <>

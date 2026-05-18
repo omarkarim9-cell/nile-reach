@@ -4,18 +4,18 @@ import { useTranslations } from "next-intl";
 import Image from "next/image";
 import { Link } from "@/i18n/routing";
 import { ArrowRight } from "lucide-react";
-import { byCategory, type ProductCategory } from "@/lib/products";
+import type { Product, ProductCategory } from "@/lib/products";
 import { PageHero } from "@/components/PageHero";
 import { CTASection } from "@/components/CTASection";
 
 type Props = {
   category: ProductCategory;
   heroImage: string;
+  items: Product[];
 };
 
-export function CategoryPage({ category, heroImage }: Props) {
+export function CategoryPage({ category, heroImage, items }: Props) {
   const t = useTranslations();
-  const items = byCategory(category);
 
   const eyebrow = t(`nav.${category}` as never);
   const title = t(`productsSection.${category}Title` as never);
@@ -59,7 +59,6 @@ function getDescription(
   p: { slug: string; nameKey: string; category: ProductCategory },
   t: ReturnType<typeof useTranslations>
 ): string {
-  // Crops + livestock pull from descriptions object
   if (p.category !== "processed") {
     try {
       return t(`productGallery.descriptions.${p.nameKey}` as never);
@@ -67,7 +66,6 @@ function getDescription(
       return "";
     }
   }
-  // Processed items are stored at the top level of productGallery
   try {
     return t(`productGallery.${p.nameKey}` as never);
   } catch {
@@ -76,10 +74,7 @@ function getDescription(
 }
 
 function ProductDetailCard({
-  id,
-  name,
-  description,
-  image,
+  id, name, description, image,
 }: {
   id: string;
   name: string;

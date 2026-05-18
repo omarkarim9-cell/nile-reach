@@ -2,10 +2,11 @@ import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/routing";
 import Image from "next/image";
 import { ArrowRight, Leaf, Beef, Package2, ShieldCheck } from "lucide-react";
-import { products } from "@/lib/products";
+import { getProductsWithOverrides } from "@/lib/getProducts";
 
-export default function HomePage() {
+export default async function HomePage() {
   const t = useTranslations();
+  const products = await getProductsWithOverrides();
 
   return (
     <>

@@ -123,3 +123,16 @@ export const products: Product[] = [
 export function byCategory(category: ProductCategory) {
   return products.filter((p) => p.category === category);
 }
+
+/**
+ * Apply image overrides (from DB) to the product list, falling back to
+ * the default image when no override exists.
+ */
+export function applyImageOverrides(
+  overrides: Map<string, string>
+): Product[] {
+  return products.map((p) => {
+    const overrideUrl = overrides.get(p.slug);
+    return overrideUrl ? { ...p, image: overrideUrl } : p;
+  });
+}
