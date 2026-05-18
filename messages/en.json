@@ -49,20 +49,103 @@
       "wheat": "Wheat",
       "sorghum": "Sorghum (Dura)",
       "sunflower": "Sunflower",
-      "berseem": "Berseem"
-    }
+      "berseem": "Berseem",
+      "halalMeat": "Halal Meat",
+      "oilseeds": "Oilseeds",
+      "valueAdded": "Value-added Products"
+    },
+    "descriptions": {
+      "sheep": "Live Sudanese sheep from traditional rearing regions, prepared for export under strict veterinary and halal standards.",
+      "cattle": "Robust Sudanese cattle breeds suited to long-distance transport, raised in extensive pastoral systems.",
+      "goats": "Hardy goat breeds from arid Sudanese regions, well-suited for the GCC and African meat markets.",
+      "sesame": "Premium Sudanese sesame seeds (white and mixed grades), cleaned and graded for international buyers.",
+      "peanut": "Sudanese groundnuts known for high oil content and clean flavor, available in-shell or shelled.",
+      "wheat": "Sudanese wheat for milling and feed applications, cleaned to international export standards.",
+      "sorghum": "Sorghum (locally known as Dura) — a Sudanese staple used for food, brewing, and animal feed.",
+      "sunflower": "Sunflower seeds with strong oil yields, sourced from Sudan's central farming regions.",
+      "berseem": "Berseem clover — a high-protein forage crop used as livestock feed across the Middle East."
+    },
+    "halalMeat": "Halal-slaughtered meat from inspected facilities, packed and labeled for export to GCC and beyond.",
+    "oilseeds": "Cleaned oilseeds ready for crushing — sesame, peanut, and sunflower.",
+    "valueAdded": "Value-added agricultural products and packaged goods ready for distribution."
   },
   "about": {
     "eyebrow": "Who we are",
     "title": "Built on the rivers that built a civilization.",
     "body": "The confluence of the Blue Nile and White Nile at Khartoum — known as Mogran — has been a meeting point for trade and culture for millennia. Nile Reach Global carries that heritage forward, working with farmers, herders, and processors across Sudan to bring their products to a global market with reliability, transparency, and care.",
-    "cta": "Learn more about us"
+    "cta": "Learn more about us",
+    "page": {
+      "eyebrow": "Our Story",
+      "title": "Where Sudan's harvests meet the world's markets.",
+      "subtitle": "Headquartered in Ajman, UAE — sourcing across Sudan — shipping worldwide.",
+      "storyTitle": "From the Mogran to the world",
+      "storyBody1": "The Mogran is the meeting point of the Blue Nile and White Nile in Khartoum — a place that has served as a hub for trade, agriculture, and culture for thousands of years. Civilizations were built here. Crops travelled from here. The name of our company comes from that geography.",
+      "storyBody2": "Nile Reach Global Group was founded with a simple mission: bring the best of Sudan's agricultural heritage to international buyers, with the reliability, transparency, and care that modern trade demands.",
+      "processTitle": "How we work",
+      "processSubtitle": "Five steps, from source to destination.",
+      "step1Title": "Source",
+      "step1Body": "Direct relationships with Sudanese farmers, herders, and cooperatives — no opaque middlemen.",
+      "step2Title": "Inspect",
+      "step2Body": "Veterinary and quality inspection at origin, with documentation that follows every shipment.",
+      "step3Title": "Process",
+      "step3Body": "Licensed halal facilities and ISO-aligned processing, prepared to the destination market's standards.",
+      "step4Title": "Ship",
+      "step4Body": "Export-ready packaging, full logistics support, and the paperwork to clear customs cleanly.",
+      "step5Title": "Support",
+      "step5Body": "Ongoing communication from contract signing through delivery — and beyond, for repeat shipments.",
+      "valuesTitle": "What we stand for",
+      "value1Title": "Heritage",
+      "value1Body": "We work with traditions thousands of years old and the people who keep them alive.",
+      "value2Title": "Trust",
+      "value2Body": "Verified partners. Transparent supply chains. Documentation at every step.",
+      "value3Title": "Reach",
+      "value3Body": "Ajman HQ, Sudan sourcing, worldwide shipping — built for international trade."
+    }
   },
   "quality": {
     "eyebrow": "Standards",
     "title": "Halal-certified. Veterinary-inspected. Export-ready.",
     "body": "Every shipment passes through licensed processing facilities and is inspected against the standards required by the destination market.",
-    "cta": "See our processing standards"
+    "cta": "See our processing standards",
+    "page": {
+      "eyebrow": "Quality & Processing",
+      "title": "Every shipment, inspected. Every step, documented.",
+      "subtitle": "From farm to port, we maintain strict standards aligned with international halal, veterinary, and quality requirements.",
+      "standardsTitle": "Our standards",
+      "halalTitle": "Halal Certified",
+      "halalBody": "All meat and livestock follow Islamic halal slaughter and handling practices, certified by recognised authorities.",
+      "vetTitle": "Veterinary Inspected",
+      "vetBody": "Every animal undergoes veterinary inspection before slaughter. Health certificates accompany every shipment.",
+      "isoTitle": "ISO Aligned",
+      "isoBody": "Our processing partners follow ISO-aligned quality management standards for food safety and traceability.",
+      "processTitle": "Our process",
+      "processSubtitle": "From farm to your destination, every step is documented.",
+      "step1": "Source verification at the farm",
+      "step2": "Veterinary inspection",
+      "step3": "Transport to licensed facility",
+      "step4": "Halal slaughter (where applicable)",
+      "step5": "Quality grading and packaging",
+      "step6": "Export documentation",
+      "step7": "Shipment",
+      "facilityTitle": "Inside our partner facilities",
+      "facilityBody": "Photographs from working processing facilities. Shared for trade buyers and importers evaluating our supply chain.",
+      "tradeOnlyLabel": "B2B / Trade buyers only",
+      "tradeOnlyNotice": "The images below show real processing operations and may not be suitable for all audiences. Shared for transparency with serious trade buyers."
+    }
+  },
+  "products": {
+    "page": {
+      "eyebrow": "Our Products",
+      "title": "From the Sudanese fields to global tables.",
+      "subtitle": "Three categories. Twelve product lines. All export-ready.",
+      "browseTitle": "Browse by category",
+      "allProductsTitle": "All products",
+      "allProductsSubtitle": "A full view of what we trade — explore each category for more.",
+      "requestQuote": "Request a Quote",
+      "categoryLivestockSubtitle": "Live animals from Sudan's traditional rearing regions.",
+      "categoryCropsSubtitle": "Grains, oilseeds, and forage — the staples of Sudanese agriculture.",
+      "categoryProcessedSubtitle": "Value-added goods, ready for distribution."
+    }
   },
   "cta": {
     "title": "Looking to source from Sudan?",

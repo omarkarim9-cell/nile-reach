@@ -49,20 +49,103 @@
       "wheat": "Trigo",
       "sorghum": "Sorgo (Dura)",
       "sunflower": "Girasol",
-      "berseem": "Bersim"
-    }
+      "berseem": "Bersim",
+      "halalMeat": "Carne Halal",
+      "oilseeds": "Oleaginosas",
+      "valueAdded": "Productos con valor añadido"
+    },
+    "descriptions": {
+      "sheep": "Ovejas sudanesas vivas de regiones de cría tradicional, preparadas para exportación bajo estrictas normas veterinarias y halal.",
+      "cattle": "Razas robustas de ganado sudanés adecuadas para transporte de larga distancia, criadas en sistemas pastorales extensivos.",
+      "goats": "Razas resistentes de cabras de regiones áridas de Sudán, idóneas para los mercados de carne del Golfo y África.",
+      "sesame": "Semillas de sésamo sudanés de primera calidad (blanco y mixto), limpias y clasificadas para compradores internacionales.",
+      "peanut": "Cacahuetes sudaneses reconocidos por su alto contenido de aceite y sabor puro, disponibles con cáscara o pelados.",
+      "wheat": "Trigo sudanés para molienda y alimentación animal, limpio según normas internacionales de exportación.",
+      "sorghum": "Sorgo (conocido localmente como Dura) — producto sudanés básico utilizado para alimentación, elaboración de bebidas y forraje.",
+      "sunflower": "Semillas de girasol con alto rendimiento de aceite, procedentes de las regiones agrícolas centrales de Sudán.",
+      "berseem": "Trébol bersim — cultivo forrajero rico en proteínas utilizado como alimento para el ganado en Oriente Medio."
+    },
+    "halalMeat": "Carne sacrificada halal en instalaciones inspeccionadas, envasada y etiquetada para exportación al Golfo y más allá.",
+    "oilseeds": "Oleaginosas limpias y listas para el prensado — sésamo, cacahuete y girasol.",
+    "valueAdded": "Productos agrícolas con valor añadido y mercancías envasadas listas para distribución."
   },
   "about": {
     "eyebrow": "Quiénes somos",
     "title": "Construidos sobre los ríos que construyeron una civilización.",
     "body": "La confluencia del Nilo Azul y el Nilo Blanco en Jartum, conocida como Mogran, ha sido un punto de encuentro para el comercio y la cultura durante milenios. Nile Reach Global lleva ese legado adelante, trabajando con agricultores, ganaderos y procesadores en todo Sudán para llevar sus productos al mercado global con fiabilidad, transparencia y cuidado.",
-    "cta": "Conoce más sobre nosotros"
+    "cta": "Conoce más sobre nosotros",
+    "page": {
+      "eyebrow": "Nuestra historia",
+      "title": "Donde las cosechas de Sudán se encuentran con los mercados del mundo.",
+      "subtitle": "Sede en Ajman, EAU — abastecimiento en todo Sudán — envíos a todo el mundo.",
+      "storyTitle": "Del Mogran al mundo",
+      "storyBody1": "El Mogran es el punto de encuentro del Nilo Azul y el Nilo Blanco en Jartum: un lugar que ha sido centro de comercio, agricultura y cultura durante miles de años. Aquí se construyeron civilizaciones. De aquí salieron cultivos. El nombre de nuestra empresa proviene de esta geografía.",
+      "storyBody2": "Nile Reach Global Group se fundó con una misión sencilla: llevar lo mejor del patrimonio agrícola sudanés a los compradores internacionales, con la fiabilidad, transparencia y cuidado que el comercio moderno exige.",
+      "processTitle": "Cómo trabajamos",
+      "processSubtitle": "Cinco pasos, del origen al destino.",
+      "step1Title": "Origen",
+      "step1Body": "Relaciones directas con agricultores, ganaderos y cooperativas sudaneses — sin intermediarios opacos.",
+      "step2Title": "Inspección",
+      "step2Body": "Inspección veterinaria y de calidad en origen, con documentación que acompaña a cada envío.",
+      "step3Title": "Procesamiento",
+      "step3Body": "Instalaciones halal autorizadas y procesamiento alineado con ISO, preparado según los estándares del mercado de destino.",
+      "step4Title": "Envío",
+      "step4Body": "Embalaje listo para exportación, soporte logístico completo y los documentos para un despacho aduanero fluido.",
+      "step5Title": "Soporte",
+      "step5Body": "Comunicación continua desde la firma del contrato hasta la entrega — y más allá, para envíos repetidos.",
+      "valuesTitle": "Lo que representamos",
+      "value1Title": "Patrimonio",
+      "value1Body": "Trabajamos con tradiciones milenarias y con las personas que las mantienen vivas.",
+      "value2Title": "Confianza",
+      "value2Body": "Socios verificados. Cadenas de suministro transparentes. Documentación en cada paso.",
+      "value3Title": "Alcance",
+      "value3Body": "Sede en Ajman, abastecimiento en Sudán, envío mundial — diseñado para el comercio internacional."
+    }
   },
   "quality": {
     "eyebrow": "Estándares",
     "title": "Certificado halal. Inspeccionado veterinariamente. Listo para exportación.",
     "body": "Cada envío pasa por instalaciones de procesamiento autorizadas y se inspecciona según los estándares requeridos por el mercado de destino.",
-    "cta": "Ver nuestros estándares de procesamiento"
+    "cta": "Ver nuestros estándares de procesamiento",
+    "page": {
+      "eyebrow": "Calidad y Procesamiento",
+      "title": "Cada envío inspeccionado. Cada paso documentado.",
+      "subtitle": "De la granja al puerto, mantenemos estándares estrictos alineados con los requisitos internacionales halal, veterinarios y de calidad.",
+      "standardsTitle": "Nuestros estándares",
+      "halalTitle": "Certificado Halal",
+      "halalBody": "Toda la carne y el ganado siguen las prácticas islámicas halal de sacrificio y manejo, certificadas por autoridades reconocidas.",
+      "vetTitle": "Inspeccionado veterinariamente",
+      "vetBody": "Cada animal pasa por inspección veterinaria antes del sacrificio. Los certificados sanitarios acompañan a cada envío.",
+      "isoTitle": "Alineado con ISO",
+      "isoBody": "Nuestros socios procesadores siguen estándares de gestión de calidad alineados con ISO para seguridad alimentaria y trazabilidad.",
+      "processTitle": "Nuestro proceso",
+      "processSubtitle": "De la granja a tu destino, cada paso está documentado.",
+      "step1": "Verificación de origen en la granja",
+      "step2": "Inspección veterinaria",
+      "step3": "Transporte a instalación autorizada",
+      "step4": "Sacrificio halal (cuando aplica)",
+      "step5": "Clasificación de calidad y envasado",
+      "step6": "Documentación de exportación",
+      "step7": "Envío",
+      "facilityTitle": "Dentro de nuestras instalaciones asociadas",
+      "facilityBody": "Fotografías de instalaciones de procesamiento en funcionamiento. Compartidas para compradores comerciales e importadores que evalúan nuestra cadena de suministro.",
+      "tradeOnlyLabel": "Solo B2B / compradores comerciales",
+      "tradeOnlyNotice": "Las imágenes a continuación muestran operaciones reales de procesamiento y pueden no ser adecuadas para todo público. Compartidas por transparencia con compradores comerciales serios."
+    }
+  },
+  "products": {
+    "page": {
+      "eyebrow": "Nuestros productos",
+      "title": "De los campos sudaneses a las mesas del mundo.",
+      "subtitle": "Tres categorías. Doce líneas de productos. Todas listas para exportación.",
+      "browseTitle": "Explorar por categoría",
+      "allProductsTitle": "Todos los productos",
+      "allProductsSubtitle": "Una visión completa de lo que comercializamos — explora cada categoría para más detalles.",
+      "requestQuote": "Solicitar cotización",
+      "categoryLivestockSubtitle": "Animales vivos de las regiones de cría tradicional de Sudán.",
+      "categoryCropsSubtitle": "Granos, oleaginosas y forraje — los pilares de la agricultura sudanesa.",
+      "categoryProcessedSubtitle": "Bienes con valor añadido, listos para distribución."
+    }
   },
   "cta": {
     "title": "¿Busca abastecerse desde Sudán?",

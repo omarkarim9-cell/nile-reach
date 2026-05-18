@@ -49,20 +49,103 @@
       "wheat": "Weizen",
       "sorghum": "Sorghum (Dura)",
       "sunflower": "Sonnenblumen",
-      "berseem": "Berseem-Klee"
-    }
+      "berseem": "Berseem-Klee",
+      "halalMeat": "Halal-Fleisch",
+      "oilseeds": "Ölsaaten",
+      "valueAdded": "Veredelte Produkte"
+    },
+    "descriptions": {
+      "sheep": "Lebende sudanesische Schafe aus traditionellen Zuchtregionen, exportbereit nach strengen veterinärmedizinischen und halal-konformen Standards.",
+      "cattle": "Robuste sudanesische Rinderrassen, geeignet für lange Transporte, gezüchtet in extensiver Weidehaltung.",
+      "goats": "Widerstandsfähige Ziegenrassen aus den ariden Regionen Sudans, ideal für die Fleischmärkte am Golf und in Afrika.",
+      "sesame": "Sudanesische Premium-Sesamsamen (weiß und gemischt), gereinigt und sortiert für internationale Käufer.",
+      "peanut": "Sudanesische Erdnüsse, bekannt für ihren hohen Ölgehalt und reinen Geschmack, in Schale oder geschält erhältlich.",
+      "wheat": "Sudanesischer Weizen für Mahl- und Futteranwendungen, nach internationalen Exportstandards gereinigt.",
+      "sorghum": "Sorghum (lokal als Dura bekannt) — ein sudanesisches Grundnahrungsmittel für Nahrung, Brauen und Tierfutter.",
+      "sunflower": "Sonnenblumenkerne mit hoher Ölausbeute aus den zentralen Anbaugebieten des Sudan.",
+      "berseem": "Berseem-Klee — proteinreiche Futterpflanze, in ganz dem Nahen Osten als Viehfutter verwendet."
+    },
+    "halalMeat": "Halal geschlachtetes Fleisch aus geprüften Betrieben, verpackt und etikettiert für den Export in den Golf und darüber hinaus.",
+    "oilseeds": "Gereinigte, pressfertige Ölsaaten — Sesam, Erdnuss und Sonnenblume.",
+    "valueAdded": "Veredelte Agrarprodukte und verpackte Waren, bereit für die Distribution."
   },
   "about": {
     "eyebrow": "Wer wir sind",
     "title": "Gebaut auf den Flüssen, die eine Zivilisation hervorbrachten.",
     "body": "Der Zusammenfluss von Blauem und Weißem Nil in Khartum — bekannt als Mogran — ist seit Jahrtausenden ein Treffpunkt für Handel und Kultur. Nile Reach Global führt dieses Erbe fort und arbeitet mit Bauern, Hirten und Verarbeitern im gesamten Sudan zusammen, um deren Produkte zuverlässig, transparent und sorgfältig auf den globalen Markt zu bringen.",
-    "cta": "Mehr über uns erfahren"
+    "cta": "Mehr über uns erfahren",
+    "page": {
+      "eyebrow": "Unsere Geschichte",
+      "title": "Wo die Ernten des Sudan auf die Märkte der Welt treffen.",
+      "subtitle": "Hauptsitz in Ajman, VAE — Beschaffung im gesamten Sudan — weltweiter Versand.",
+      "storyTitle": "Vom Mogran in die Welt",
+      "storyBody1": "Der Mogran ist der Zusammenfluss von Blauem und Weißem Nil in Khartum — ein Ort, der seit Jahrtausenden ein Zentrum für Handel, Landwirtschaft und Kultur ist. Hier entstanden Zivilisationen. Von hier aus reisten Feldfrüchte. Der Name unseres Unternehmens stammt aus dieser Geografie.",
+      "storyBody2": "Nile Reach Global Group wurde mit einer einfachen Mission gegründet: das Beste des sudanesischen Agrarerbes mit der Zuverlässigkeit, Transparenz und Sorgfalt, die der moderne Handel verlangt, zu internationalen Käufern zu bringen.",
+      "processTitle": "Wie wir arbeiten",
+      "processSubtitle": "Fünf Schritte, von der Quelle zum Ziel.",
+      "step1Title": "Beschaffung",
+      "step1Body": "Direkte Beziehungen zu sudanesischen Bauern, Hirten und Genossenschaften — ohne undurchsichtige Zwischenhändler.",
+      "step2Title": "Prüfung",
+      "step2Body": "Veterinärmedizinische und qualitative Prüfung am Ursprung, mit Dokumentation für jede Sendung.",
+      "step3Title": "Verarbeitung",
+      "step3Body": "Lizenzierte Halal-Betriebe und ISO-konforme Verarbeitung, nach den Standards des Zielmarkts vorbereitet.",
+      "step4Title": "Versand",
+      "step4Body": "Exportbereite Verpackung, vollständige logistische Unterstützung und die Unterlagen für eine reibungslose Verzollung.",
+      "step5Title": "Betreuung",
+      "step5Body": "Kontinuierliche Kommunikation von der Vertragsunterzeichnung bis zur Lieferung — und darüber hinaus bei wiederkehrenden Sendungen.",
+      "valuesTitle": "Wofür wir stehen",
+      "value1Title": "Erbe",
+      "value1Body": "Wir arbeiten mit jahrtausendealten Traditionen und den Menschen, die sie am Leben erhalten.",
+      "value2Title": "Vertrauen",
+      "value2Body": "Geprüfte Partner. Transparente Lieferketten. Dokumentation bei jedem Schritt.",
+      "value3Title": "Reichweite",
+      "value3Body": "Hauptsitz Ajman, Beschaffung Sudan, weltweiter Versand — für den internationalen Handel konzipiert."
+    }
   },
   "quality": {
     "eyebrow": "Standards",
     "title": "Halal-zertifiziert. Veterinärgeprüft. Exportbereit.",
     "body": "Jede Lieferung durchläuft lizenzierte Verarbeitungsbetriebe und wird nach den Standards des Zielmarktes geprüft.",
-    "cta": "Unsere Verarbeitungsstandards ansehen"
+    "cta": "Unsere Verarbeitungsstandards ansehen",
+    "page": {
+      "eyebrow": "Qualität & Verarbeitung",
+      "title": "Jede Lieferung geprüft. Jeder Schritt dokumentiert.",
+      "subtitle": "Vom Hof bis zum Hafen halten wir strenge Standards ein, die internationalen halal-, veterinärmedizinischen und Qualitätsanforderungen entsprechen.",
+      "standardsTitle": "Unsere Standards",
+      "halalTitle": "Halal-zertifiziert",
+      "halalBody": "Alle Fleisch- und Viehlieferungen folgen islamischen Halal-Schlacht- und Handhabungspraktiken, zertifiziert von anerkannten Stellen.",
+      "vetTitle": "Veterinärgeprüft",
+      "vetBody": "Jedes Tier wird vor der Schlachtung veterinärmedizinisch untersucht. Gesundheitszeugnisse begleiten jede Sendung.",
+      "isoTitle": "ISO-konform",
+      "isoBody": "Unsere Verarbeitungspartner folgen ISO-konformen Qualitätsmanagementstandards für Lebensmittelsicherheit und Rückverfolgbarkeit.",
+      "processTitle": "Unser Prozess",
+      "processSubtitle": "Vom Hof bis zu Ihrem Ziel — jeder Schritt ist dokumentiert.",
+      "step1": "Quellenprüfung auf dem Hof",
+      "step2": "Veterinärinspektion",
+      "step3": "Transport in lizenzierte Anlage",
+      "step4": "Halal-Schlachtung (falls zutreffend)",
+      "step5": "Qualitätssortierung und Verpackung",
+      "step6": "Exportdokumentation",
+      "step7": "Versand",
+      "facilityTitle": "In unseren Partnerbetrieben",
+      "facilityBody": "Fotografien aus arbeitenden Verarbeitungsbetrieben. Geteilt für Handelskäufer und Importeure, die unsere Lieferkette prüfen.",
+      "tradeOnlyLabel": "Nur B2B / Handelskäufer",
+      "tradeOnlyNotice": "Die folgenden Bilder zeigen reale Verarbeitungsvorgänge und sind möglicherweise nicht für alle Zielgruppen geeignet. Aus Transparenzgründen für seriöse Handelskäufer geteilt."
+    }
+  },
+  "products": {
+    "page": {
+      "eyebrow": "Unsere Produkte",
+      "title": "Von den sudanesischen Feldern auf die Tische der Welt.",
+      "subtitle": "Drei Kategorien. Zwölf Produktlinien. Alle exportbereit.",
+      "browseTitle": "Nach Kategorie durchsuchen",
+      "allProductsTitle": "Alle Produkte",
+      "allProductsSubtitle": "Eine vollständige Übersicht unseres Handelssortiments — entdecken Sie jede Kategorie im Detail.",
+      "requestQuote": "Angebot anfordern",
+      "categoryLivestockSubtitle": "Lebendtiere aus den traditionellen Zuchtregionen Sudans.",
+      "categoryCropsSubtitle": "Getreide, Ölsaaten und Futtermittel — die Grundpfeiler der sudanesischen Landwirtschaft.",
+      "categoryProcessedSubtitle": "Veredelte Waren, bereit für die Distribution."
+    }
   },
   "cta": {
     "title": "Möchten Sie aus dem Sudan beziehen?",

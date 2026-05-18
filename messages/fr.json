@@ -49,20 +49,103 @@
       "wheat": "Blé",
       "sorghum": "Sorgho (Dura)",
       "sunflower": "Tournesol",
-      "berseem": "Bersim"
-    }
+      "berseem": "Bersim",
+      "halalMeat": "Viande Halal",
+      "oilseeds": "Oléagineux",
+      "valueAdded": "Produits à valeur ajoutée"
+    },
+    "descriptions": {
+      "sheep": "Moutons soudanais vivants des régions d'élevage traditionnelles, préparés pour l'exportation selon des normes vétérinaires et halal strictes.",
+      "cattle": "Races bovines soudanaises robustes adaptées au transport longue distance, élevées dans des systèmes pastoraux extensifs.",
+      "goats": "Races de chèvres résistantes des régions arides du Soudan, bien adaptées aux marchés de la viande du Golfe et d'Afrique.",
+      "sesame": "Graines de sésame soudanais de qualité supérieure (blanc et mixte), nettoyées et calibrées pour les acheteurs internationaux.",
+      "peanut": "Arachides soudanaises reconnues pour leur haute teneur en huile et leur saveur pure, disponibles en coque ou décortiquées.",
+      "wheat": "Blé soudanais pour la meunerie et l'alimentation animale, nettoyé selon les normes d'exportation internationales.",
+      "sorghum": "Sorgho (connu localement sous le nom de Dura) — produit soudanais de base utilisé pour l'alimentation, le brassage et le bétail.",
+      "sunflower": "Graines de tournesol à fort rendement en huile, issues des régions agricoles centrales du Soudan.",
+      "berseem": "Trèfle bersim — culture fourragère riche en protéines utilisée comme aliment pour le bétail au Moyen-Orient."
+    },
+    "halalMeat": "Viande abattue selon le rite halal dans des installations inspectées, conditionnée et étiquetée pour l'exportation vers le Golfe et au-delà.",
+    "oilseeds": "Oléagineux nettoyés, prêts pour le pressage — sésame, arachide et tournesol.",
+    "valueAdded": "Produits agricoles à valeur ajoutée et marchandises conditionnées prêtes à la distribution."
   },
   "about": {
     "eyebrow": "Qui nous sommes",
     "title": "Bâti sur les fleuves qui ont bâti une civilisation.",
     "body": "Le confluent du Nil Bleu et du Nil Blanc à Khartoum — connu sous le nom de Mogran — est un point de rencontre pour le commerce et la culture depuis des millénaires. Nile Reach Global perpétue cet héritage, en travaillant avec les agriculteurs, éleveurs et transformateurs à travers le Soudan pour apporter leurs produits sur un marché mondial avec fiabilité, transparence et soin.",
-    "cta": "En savoir plus"
+    "cta": "En savoir plus",
+    "page": {
+      "eyebrow": "Notre histoire",
+      "title": "Là où les récoltes du Soudan rencontrent les marchés du monde.",
+      "subtitle": "Siège à Ajman, EAU — sourcing à travers le Soudan — expédition mondiale.",
+      "storyTitle": "Du Mogran au monde",
+      "storyBody1": "Le Mogran est le point de rencontre du Nil Bleu et du Nil Blanc à Khartoum — un lieu qui a servi de carrefour pour le commerce, l'agriculture et la culture pendant des milliers d'années. Des civilisations y sont nées. Des cultures en sont parties. Le nom de notre entreprise vient de cette géographie.",
+      "storyBody2": "Nile Reach Global Group a été fondée avec une mission simple : apporter le meilleur du patrimoine agricole soudanais aux acheteurs internationaux, avec la fiabilité, la transparence et le soin qu'exige le commerce moderne.",
+      "processTitle": "Comment nous travaillons",
+      "processSubtitle": "Cinq étapes, de la source à la destination.",
+      "step1Title": "Source",
+      "step1Body": "Relations directes avec les agriculteurs, éleveurs et coopératives soudanais — sans intermédiaires opaques.",
+      "step2Title": "Inspection",
+      "step2Body": "Inspection vétérinaire et qualité à l'origine, avec une documentation qui suit chaque expédition.",
+      "step3Title": "Traitement",
+      "step3Body": "Installations halal agréées et traitement aligné ISO, préparé selon les normes du marché de destination.",
+      "step4Title": "Expédition",
+      "step4Body": "Emballage prêt à l'export, soutien logistique complet, et tous les documents pour un dédouanement fluide.",
+      "step5Title": "Soutien",
+      "step5Body": "Communication continue de la signature du contrat à la livraison — et au-delà, pour les expéditions répétées.",
+      "valuesTitle": "Ce que nous représentons",
+      "value1Title": "Héritage",
+      "value1Body": "Nous travaillons avec des traditions millénaires et les personnes qui les maintiennent vivantes.",
+      "value2Title": "Confiance",
+      "value2Body": "Partenaires vérifiés. Chaînes d'approvisionnement transparentes. Documentation à chaque étape.",
+      "value3Title": "Portée",
+      "value3Body": "Siège Ajman, sourcing Soudan, expédition mondiale — conçu pour le commerce international."
+    }
   },
   "quality": {
     "eyebrow": "Normes",
     "title": "Certifié halal. Inspecté vétérinairement. Prêt à l'exportation.",
     "body": "Chaque expédition passe par des installations de transformation agréées et est inspectée selon les normes du marché de destination.",
-    "cta": "Voir nos normes de transformation"
+    "cta": "Voir nos normes de transformation",
+    "page": {
+      "eyebrow": "Qualité & Transformation",
+      "title": "Chaque expédition inspectée. Chaque étape documentée.",
+      "subtitle": "De la ferme au port, nous maintenons des normes strictes alignées sur les exigences halal, vétérinaires et de qualité internationales.",
+      "standardsTitle": "Nos normes",
+      "halalTitle": "Certifié Halal",
+      "halalBody": "Toute la viande et le bétail suivent les pratiques islamiques halal d'abattage et de manipulation, certifiées par des autorités reconnues.",
+      "vetTitle": "Inspecté vétérinairement",
+      "vetBody": "Chaque animal subit une inspection vétérinaire avant l'abattage. Les certificats de santé accompagnent chaque expédition.",
+      "isoTitle": "Aligné ISO",
+      "isoBody": "Nos partenaires de transformation suivent des normes de gestion de la qualité alignées ISO pour la sécurité alimentaire et la traçabilité.",
+      "processTitle": "Notre processus",
+      "processSubtitle": "De la ferme à votre destination, chaque étape est documentée.",
+      "step1": "Vérification de la source à la ferme",
+      "step2": "Inspection vétérinaire",
+      "step3": "Transport vers une installation agréée",
+      "step4": "Abattage halal (le cas échéant)",
+      "step5": "Classement qualité et conditionnement",
+      "step6": "Documentation d'exportation",
+      "step7": "Expédition",
+      "facilityTitle": "À l'intérieur de nos installations partenaires",
+      "facilityBody": "Photographies d'installations de transformation en activité. Partagées pour les acheteurs commerciaux et importateurs évaluant notre chaîne d'approvisionnement.",
+      "tradeOnlyLabel": "B2B / Acheteurs commerciaux uniquement",
+      "tradeOnlyNotice": "Les images ci-dessous montrent des opérations de transformation réelles et peuvent ne pas convenir à tous les publics. Partagées pour la transparence avec les acheteurs commerciaux sérieux."
+    }
+  },
+  "products": {
+    "page": {
+      "eyebrow": "Nos produits",
+      "title": "Des champs soudanais aux tables du monde.",
+      "subtitle": "Trois catégories. Douze gammes de produits. Toutes prêtes à l'exportation.",
+      "browseTitle": "Parcourir par catégorie",
+      "allProductsTitle": "Tous les produits",
+      "allProductsSubtitle": "Une vue complète de ce que nous échangeons — explorez chaque catégorie pour plus de détails.",
+      "requestQuote": "Demander un devis",
+      "categoryLivestockSubtitle": "Animaux vivants des régions d'élevage traditionnelles du Soudan.",
+      "categoryCropsSubtitle": "Céréales, oléagineux et fourrage — les piliers de l'agriculture soudanaise.",
+      "categoryProcessedSubtitle": "Produits à valeur ajoutée, prêts à la distribution."
+    }
   },
   "cta": {
     "title": "Vous cherchez à vous approvisionner depuis le Soudan ?",

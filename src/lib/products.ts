@@ -1,9 +1,10 @@
 /**
  * Central product catalog.
  *
- * Images are sourced from Unsplash (free for commercial use, no attribution required).
- * Swap any `image` URL with your own photos when you have them — just put the file in
- * /public/images/ and change the URL to `/images/your-photo.jpg`.
+ * Each product references a translation key (descKey) under
+ * `productGallery.descriptions.<key>` in messages/*.json
+ *
+ * Swap any image with your own by changing the URL.
  */
 
 export type ProductCategory = "livestock" | "crops" | "processed";
@@ -11,13 +12,11 @@ export type ProductCategory = "livestock" | "crops" | "processed";
 export type Product = {
   slug: string;
   category: ProductCategory;
-  /** key for translations (in messages/*.json under "products.<slug>") */
+  /** key for translations: productGallery.items.<nameKey> */
   nameKey: string;
-  /** Fallback English name if translation is missing */
+  /** fallback name */
   nameEn: string;
-  /** Image URL — Unsplash CDN or local /images/... */
   image: string;
-  /** Optional alt text override (uses name otherwise) */
   alt?: string;
 };
 
@@ -95,6 +94,31 @@ export const products: Product[] = [
     nameEn: "Berseem (Clover)",
     image:
       "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&q=80&auto=format&fit=crop",
+  },
+
+  // ===== PROCESSED =====
+  {
+    slug: "halal-meat",
+    category: "processed",
+    nameKey: "halalMeat",
+    nameEn: "Halal Meat",
+    image: "/images/processing-halal-stamps.jpg",
+  },
+  {
+    slug: "oilseeds",
+    category: "processed",
+    nameKey: "oilseeds",
+    nameEn: "Oilseeds",
+    image:
+      "https://images.unsplash.com/photo-1547390318-1f1a4f5ed89c?w=1200&q=80&auto=format&fit=crop",
+  },
+  {
+    slug: "value-added",
+    category: "processed",
+    nameKey: "valueAdded",
+    nameEn: "Value-added Products",
+    image:
+      "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?w=1200&q=80&auto=format&fit=crop",
   },
 ];
 
