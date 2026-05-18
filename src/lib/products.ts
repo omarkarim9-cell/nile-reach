@@ -61,7 +61,7 @@ export const products: Product[] = [
     nameKey: "peanut",
     nameEn: "Peanuts",
     image:
-      "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?w=1200&auto=compress&cs=tinysrgb",
+      "https://images.pexels.com/photos/9799045/pexels-photo-9799045.jpeg?w=1200&auto=compress&cs=tinysrgb",
   },
   {
     slug: "wheat",
