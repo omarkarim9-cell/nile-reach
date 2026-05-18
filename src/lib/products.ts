@@ -61,7 +61,7 @@ export const products: Product[] = [
     nameKey: "peanut",
     nameEn: "Peanuts",
     image:
-      "https://images.unsplash.com/photo-1567892737950-30c4db4d2bdd?w=1200&q=80&auto=format&fit=crop",
+      "https://images.pexels.com/photos/4198015/pexels-photo-4198015.jpeg?w=1200&auto=compress&cs=tinysrgb",
   },
   {
     slug: "wheat",
@@ -93,7 +93,7 @@ export const products: Product[] = [
     nameKey: "berseem",
     nameEn: "Berseem (Clover)",
     image:
-      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&q=80&auto=format&fit=crop",
+      "https://images.pexels.com/photos/35124631/pexels-photo-35124631.jpeg?w=1200&auto=compress&cs=tinysrgb",
   },
 
   // ===== PROCESSED =====

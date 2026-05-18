@@ -147,6 +147,46 @@
       "categoryProcessedSubtitle": "Bienes con valor añadido, listos para distribución."
     }
   },
+  "contact": {
+    "eyebrow": "Contáctanos",
+    "title": "Cuéntanos lo que necesitas. Te responderemos en un día hábil.",
+    "subtitle": "Envía una consulta sobre precios, disponibilidad o asociación — o contáctanos directamente por WhatsApp.",
+    "form": {
+      "name": "Nombre completo",
+      "namePlaceholder": "Tu nombre",
+      "company": "Empresa",
+      "companyPlaceholder": "Nombre de tu empresa",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@ejemplo.com",
+      "phone": "Teléfono (opcional)",
+      "phonePlaceholder": "+1 234 567 8900",
+      "country": "País de destino",
+      "countryPlaceholder": "¿A dónde se enviará?",
+      "interest": "¿Qué te interesa?",
+      "interestPlaceholder": "Selecciona una categoría",
+      "interestLivestock": "Ganado (Ovejas, Vacas, Cabras)",
+      "interestCrops": "Cultivos y granos",
+      "interestProcessed": "Productos procesados",
+      "interestOther": "Otro / Múltiple",
+      "quantity": "Cantidad estimada (opcional)",
+      "quantityPlaceholder": "ej. 500 cabezas, 20 TM, 1 contenedor",
+      "message": "Tu mensaje",
+      "messagePlaceholder": "Cuéntanos sobre tus requisitos, plazos o preguntas específicas...",
+      "submit": "Enviar consulta",
+      "submitting": "Enviando...",
+      "successTitle": "Gracias — mensaje recibido.",
+      "successBody": "Te responderemos en un día hábil. Para consultas urgentes, contáctanos por WhatsApp.",
+      "errorTitle": "Algo salió mal",
+      "errorBody": "Por favor, intenta de nuevo o contáctanos directamente en info@nile-reach.com",
+      "required": "Requerido"
+    },
+    "direct": {
+      "title": "O contáctanos directamente",
+      "whatsapp": "Chatear por WhatsApp",
+      "email": "Enviar correo",
+      "phone": "Llámanos"
+    }
+  },
   "cta": {
     "title": "¿Busca abastecerse desde Sudán?",
     "subtitle": "Díganos lo que necesita y dónde lo necesita. Responderemos con disponibilidad, especificaciones y precios en un día hábil.",

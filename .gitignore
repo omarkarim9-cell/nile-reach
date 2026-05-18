@@ -22,7 +22,7 @@ build/
 # Env files
 .env*.local
 .env
-
+.env*
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts

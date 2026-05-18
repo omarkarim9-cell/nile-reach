@@ -147,6 +147,46 @@
       "categoryProcessedSubtitle": "Veredelte Waren, bereit für die Distribution."
     }
   },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Sagen Sie uns, was Sie brauchen. Wir antworten innerhalb eines Werktages.",
+    "subtitle": "Senden Sie eine Anfrage für Preise, Verfügbarkeit oder Partnerschaften — oder erreichen Sie uns direkt über WhatsApp.",
+    "form": {
+      "name": "Vollständiger Name",
+      "namePlaceholder": "Ihr Name",
+      "company": "Unternehmen",
+      "companyPlaceholder": "Name Ihres Unternehmens",
+      "email": "E-Mail",
+      "emailPlaceholder": "sie@beispiel.de",
+      "phone": "Telefon (optional)",
+      "phonePlaceholder": "+1 234 567 8900",
+      "country": "Bestimmungsland",
+      "countryPlaceholder": "Wohin sollen die Waren versandt werden?",
+      "interest": "Was interessiert Sie?",
+      "interestPlaceholder": "Kategorie auswählen",
+      "interestLivestock": "Vieh (Schafe, Rinder, Ziegen)",
+      "interestCrops": "Feldfrüchte & Getreide",
+      "interestProcessed": "Verarbeitete Waren",
+      "interestOther": "Sonstiges / Mehrere",
+      "quantity": "Geschätzte Menge (optional)",
+      "quantityPlaceholder": "z. B. 500 Stück, 20 t, 1 Container",
+      "message": "Ihre Nachricht",
+      "messagePlaceholder": "Erzählen Sie uns von Ihren Anforderungen, dem Zeitplan oder spezifischen Fragen...",
+      "submit": "Anfrage senden",
+      "submitting": "Wird gesendet...",
+      "successTitle": "Vielen Dank — Nachricht erhalten.",
+      "successBody": "Wir melden uns innerhalb eines Werktages. Für dringende Anfragen kontaktieren Sie uns über WhatsApp.",
+      "errorTitle": "Etwas ist schiefgelaufen",
+      "errorBody": "Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt unter info@nile-reach.com",
+      "required": "Erforderlich"
+    },
+    "direct": {
+      "title": "Oder kontaktieren Sie uns direkt",
+      "whatsapp": "Chat über WhatsApp",
+      "email": "E-Mail senden",
+      "phone": "Rufen Sie uns an"
+    }
+  },
   "cta": {
     "title": "Möchten Sie aus dem Sudan beziehen?",
     "subtitle": "Teilen Sie uns mit, was Sie benötigen und wo. Wir antworten innerhalb eines Werktages mit Verfügbarkeit, Spezifikationen und Preisen.",

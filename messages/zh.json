@@ -147,6 +147,46 @@
       "categoryProcessedSubtitle": "增值商品,随时可供分销。"
     }
   },
+  "contact": {
+    "eyebrow": "联系我们",
+    "title": "告诉我们您的需求,我们将在一个工作日内回复。",
+    "subtitle": "发送询价、库存或合作咨询——或直接通过 WhatsApp 联系我们。",
+    "form": {
+      "name": "全名",
+      "namePlaceholder": "您的姓名",
+      "company": "公司",
+      "companyPlaceholder": "您的公司名称",
+      "email": "电子邮箱",
+      "emailPlaceholder": "you@example.com",
+      "phone": "电话(可选)",
+      "phonePlaceholder": "+1 234 567 8900",
+      "country": "目的地国家",
+      "countryPlaceholder": "货物将运往何处?",
+      "interest": "您感兴趣的产品?",
+      "interestPlaceholder": "选择类别",
+      "interestLivestock": "牲畜(羊、牛、山羊)",
+      "interestCrops": "作物与谷物",
+      "interestProcessed": "加工产品",
+      "interestOther": "其他 / 多种",
+      "quantity": "预估数量(可选)",
+      "quantityPlaceholder": "例如:500 头,20 吨,1 个集装箱",
+      "message": "您的留言",
+      "messagePlaceholder": "告诉我们您的需求、时间表或任何具体问题...",
+      "submit": "发送询价",
+      "submitting": "发送中...",
+      "successTitle": "感谢您 — 已收到您的信息。",
+      "successBody": "我们将在一个工作日内回复。如有紧急询问,请通过 WhatsApp 联系我们。",
+      "errorTitle": "出现错误",
+      "errorBody": "请重试或直接联系 info@nile-reach.com",
+      "required": "必填"
+    },
+    "direct": {
+      "title": "或直接联系我们",
+      "whatsapp": "WhatsApp 聊天",
+      "email": "发送邮件",
+      "phone": "致电我们"
+    }
+  },
   "cta": {
     "title": "希望从苏丹采购?",
     "subtitle": "告诉我们您的需求和目的地。我们将在一个工作日内回复您可用性、规格和价格。",

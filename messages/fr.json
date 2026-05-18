@@ -147,6 +147,46 @@
       "categoryProcessedSubtitle": "Produits à valeur ajoutée, prêts à la distribution."
     }
   },
+  "contact": {
+    "eyebrow": "Contactez-nous",
+    "title": "Dites-nous ce dont vous avez besoin. Nous vous répondrons sous un jour ouvré.",
+    "subtitle": "Envoyez une demande de prix, de disponibilité ou de partenariat — ou contactez-nous directement sur WhatsApp.",
+    "form": {
+      "name": "Nom complet",
+      "namePlaceholder": "Votre nom",
+      "company": "Entreprise",
+      "companyPlaceholder": "Nom de votre entreprise",
+      "email": "E-mail",
+      "emailPlaceholder": "vous@exemple.com",
+      "phone": "Téléphone (facultatif)",
+      "phonePlaceholder": "+1 234 567 8900",
+      "country": "Pays de destination",
+      "countryPlaceholder": "Où les marchandises seront-elles expédiées ?",
+      "interest": "Qu'est-ce qui vous intéresse ?",
+      "interestPlaceholder": "Choisissez une catégorie",
+      "interestLivestock": "Bétail (Moutons, Bovins, Chèvres)",
+      "interestCrops": "Cultures et céréales",
+      "interestProcessed": "Produits transformés",
+      "interestOther": "Autre / Multiple",
+      "quantity": "Quantité estimée (facultatif)",
+      "quantityPlaceholder": "ex. 500 têtes, 20 tonnes, 1 conteneur",
+      "message": "Votre message",
+      "messagePlaceholder": "Parlez-nous de vos besoins, calendrier ou questions spécifiques...",
+      "submit": "Envoyer la demande",
+      "submitting": "Envoi en cours...",
+      "successTitle": "Merci — message bien reçu.",
+      "successBody": "Nous vous répondrons sous un jour ouvré. Pour les demandes urgentes, contactez-nous sur WhatsApp.",
+      "errorTitle": "Une erreur est survenue",
+      "errorBody": "Veuillez réessayer ou nous contacter directement à info@nile-reach.com",
+      "required": "Requis"
+    },
+    "direct": {
+      "title": "Ou contactez-nous directement",
+      "whatsapp": "Discuter sur WhatsApp",
+      "email": "Envoyer un e-mail",
+      "phone": "Appelez-nous"
+    }
+  },
   "cta": {
     "title": "Vous cherchez à vous approvisionner depuis le Soudan ?",
     "subtitle": "Dites-nous ce dont vous avez besoin et où. Nous vous répondrons avec la disponibilité, les spécifications et les prix dans un délai d'un jour ouvré.",

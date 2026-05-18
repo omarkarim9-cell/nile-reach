@@ -147,6 +147,46 @@
       "categoryProcessedSubtitle": "Value-added goods, ready for distribution."
     }
   },
+  "contact": {
+    "eyebrow": "Get in touch",
+    "title": "Tell us what you need. We'll get back within one business day.",
+    "subtitle": "Send an inquiry for pricing, availability, or partnership — or reach us directly on WhatsApp.",
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "Your name",
+      "company": "Company",
+      "companyPlaceholder": "Your company name",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "phone": "Phone (optional)",
+      "phonePlaceholder": "+1 234 567 8900",
+      "country": "Destination country",
+      "countryPlaceholder": "Where will the goods ship to?",
+      "interest": "What are you interested in?",
+      "interestPlaceholder": "Select a category",
+      "interestLivestock": "Livestock (Sheep, Cattle, Goats)",
+      "interestCrops": "Crops & Grains",
+      "interestProcessed": "Processed Goods",
+      "interestOther": "Other / Multiple",
+      "quantity": "Estimated quantity (optional)",
+      "quantityPlaceholder": "e.g. 500 head, 20 MT, 1 container",
+      "message": "Your message",
+      "messagePlaceholder": "Tell us about your requirements, timeline, or any specific questions...",
+      "submit": "Send Inquiry",
+      "submitting": "Sending...",
+      "successTitle": "Thank you — message received.",
+      "successBody": "We'll get back to you within one business day. For urgent inquiries, please reach us on WhatsApp.",
+      "errorTitle": "Something went wrong",
+      "errorBody": "Please try again or contact us directly at info@nile-reach.com",
+      "required": "Required"
+    },
+    "direct": {
+      "title": "Or reach us directly",
+      "whatsapp": "Chat on WhatsApp",
+      "email": "Send email",
+      "phone": "Call us"
+    }
+  },
   "cta": {
     "title": "Looking to source from Sudan?",
     "subtitle": "Tell us what you need and where you need it. We'll respond with availability, specifications, and pricing within one business day.",
