@@ -7,6 +7,7 @@ import { routing } from "@/i18n/routing";
 import { isRtl, locales, type Locale } from "@/i18n/config";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { WhatsAppFloat } from "@/components/WhatsAppFloat";
 import "../globals.css";
 
 const fraunces = Fraunces({
@@ -75,6 +76,7 @@ export default async function LocaleLayout({
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />
+          <WhatsAppFloat />
         </NextIntlClientProvider>
       </body>
     </html>
