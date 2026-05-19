@@ -4,5 +4,6 @@ import { routing } from "./i18n/routing";
 export default createMiddleware(routing);
 
 export const config = {
-  matcher: ["/((?!api|_next|_vercel|.*\\..*).*)"],
+  // Skip: api, _next, _vercel, files with extensions, AND the /admin section
+  matcher: ["/((?!api|_next|_vercel|admin|.*\\..*).*)"],
 };
