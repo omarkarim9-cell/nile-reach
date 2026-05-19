@@ -1,4 +1,4 @@
-import { useTranslations } from "next-intl";
+import { getTranslations } from "next-intl/server";
 import Image from "next/image";
 import { Link } from "@/i18n/routing";
 import { ArrowRight, Beef, Leaf, Package2 } from "lucide-react";
@@ -7,7 +7,7 @@ import { PageHero } from "@/components/PageHero";
 import { CTASection } from "@/components/CTASection";
 
 export default async function ProductsHubPage() {
-  const t = useTranslations();
+  const t = await getTranslations();
   const products = await getProductsWithOverrides();
 
   return (
