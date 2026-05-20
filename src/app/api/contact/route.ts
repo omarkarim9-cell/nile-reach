@@ -1,4 +1,8 @@
-import { Resend } from "resend";
+import {
+  TransactionalEmailsApi,
+  TransactionalEmailsApiApiKeys,
+  SendSmtpEmail,
+} from "@getbrevo/brevo";
 import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(req: NextRequest) {
@@ -14,21 +18,21 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    // Basic email format check
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       return NextResponse.json({ error: "Invalid email" }, { status: 400 });
     }
 
-    const apiKey = process.env.RESEND_API_KEY;
+    const apiKey = process.env.BREVO_API_KEY;
     const toEmail = process.env.CONTACT_TO_EMAIL || "info@nile-reach.com";
+    // From address — must be a sender or domain you've verified in Brevo
+    const fromEmail = process.env.BREVO_FROM_EMAIL || "noreply@nile-reach.com";
+    const fromName = process.env.BREVO_FROM_NAME || "Nile Reach Website";
 
     // If no API key configured (e.g. local dev), just log and return success
     if (!apiKey) {
-      console.log("[Contact form] No RESEND_API_KEY — would have sent:", body);
+      console.log("[Contact form] No BREVO_API_KEY — would have sent:", body);
       return NextResponse.json({ success: true, dev: true });
     }
-
-    const resend = new Resend(apiKey);
 
     const html = `
       <div style="font-family: -apple-system, sans-serif; max-width: 600px; margin: 0 auto; color: #1A1A1A;">
@@ -53,16 +57,20 @@ export async function POST(req: NextRequest) {
       </div>
     `;
 
-    const { error } = await resend.emails.send({
-      from: "Nile Reach Website <onboarding@resend.dev>",
-      to: [toEmail],
-      replyTo: email,
-      subject: `New inquiry from ${name}${company ? ` (${company})` : ""}`,
-      html,
-    });
+    const api = new TransactionalEmailsApi();
+    api.setApiKey(TransactionalEmailsApiApiKeys.apiKey, apiKey);
 
-    if (error) {
-      console.error("Resend error:", error);
+    const smtpEmail = new SendSmtpEmail();
+    smtpEmail.subject = `New inquiry from ${name}${company ? ` (${company})` : ""}`;
+    smtpEmail.htmlContent = html;
+    smtpEmail.sender = { name: fromName, email: fromEmail };
+    smtpEmail.to = [{ email: toEmail }];
+    smtpEmail.replyTo = { email, name };
+
+    try {
+      await api.sendTransacEmail(smtpEmail);
+    } catch (sendErr) {
+      console.error("[Brevo] send failed:", sendErr);
       return NextResponse.json(
         { error: "Failed to send email" },
         { status: 500 }
